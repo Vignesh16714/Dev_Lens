@@ -56,7 +56,7 @@ graph LR
     subgraph "Routes"
         RA([api/analyze])
         RC([api/compare])
-        RS([api/share/[Vignesh16714]])
+        RS([api/share/username])
         RH([api/health])
     end
 
